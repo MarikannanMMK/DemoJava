@@ -5,7 +5,7 @@ public class Demo1 {
         System.out.println("MMK");
         System.out.println("MMK");
         System.out.println("MMK");
-
+        System.out.println("MMK"); //2
 
 
     }
